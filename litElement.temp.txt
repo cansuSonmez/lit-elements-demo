@@ -1,0 +1,6 @@
+import { LitElement,html } from 'lit'
+class [className] extends LitElement{
+   
+}
+
+customElements.define('[element]',[className])

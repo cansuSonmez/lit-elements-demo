@@ -42,7 +42,7 @@ class ArrayOperations extends LitElement{
             age:0,
             graduate:'İTÜ'
         };
-
+       //! Bir array'a yeni eleman eklemek için, aşağıdaki syntax kullanılır: 
         this.customers = [
             ...this.customers,
             newCustomer
